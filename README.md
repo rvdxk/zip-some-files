@@ -26,7 +26,7 @@ Ensure you have the following installed on your system:
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - An Integrated Development Environment (IDE) such as IntelliJ IDEA or any other Java-compatible compiler.
-- Ensure that you have the necessary permissions to read and write files in the selected save location.
+- Ensure that you have the necessary permissions to read and write files..
 
 ## Installation
 
