@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 ## Installation
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/rvdxk/ball-animation.git
+   git clone https://github.com/rvdxk/zip-some-files.git
 2. Open the project in IntelliJ IDEA.
 3. Build and run the application.
 4. Start compressing your files with ease!
