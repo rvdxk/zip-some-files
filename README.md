@@ -39,3 +39,8 @@ Ensure you have the following installed on your system:
 ## Screenshots
 
 ![Screenshot (62)](https://github.com/rvdxk/zip-some-files/assets/136000622/6c8ebfaf-049b-47fa-b79b-560b8a1e87a2)
+
+## Feedback and Support
+If you encounter any issues or have suggestions for improvement, please open an issue in the GitHub repository. Your feedback is valuable!
+
+Happy compressing!
